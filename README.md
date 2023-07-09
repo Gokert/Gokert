@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Gokert/Gokert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me :trophy:
+At the moment I am a student of Bauman Moscow State Technical University majoring in 'Computer Science and Engineering'. I am also studying at VK Education courses in the direction of a web developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials :mag: :pencil2:
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andreymyshlyaev9@gmail.com)
+[![VK Badge](https://img.shields.io/badge/-VK-white?style=flat&logo=Vk&logoColor=blue)](https://vk.com/id549986297)
+[![Codewars Badge](https://img.shields.io/badge/-codewars-black?style=flat&logo=codewars&logoColor=red)](https://www.codewars.com/users/Vened)
+
+
+
+
