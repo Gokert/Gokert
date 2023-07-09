@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## About me :trophy:
+## Hi there 👋
 At the moment I am a student of Bauman Moscow State Technical University majoring in 'Computer Science and Engineering'. I am also studying at VK Education courses in the direction of a web developer.
 
 
