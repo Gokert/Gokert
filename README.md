@@ -10,4 +10,4 @@ My name is Andrew. At the moment I am a student of Bauman Moscow State Technical
 <img src="https://komarev.com/ghpvc/?username=Gokert&style=flat-square&color=blue" alt=""/>
 
 ## My Stats :fire:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokert&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokert)](https://github.com/anuraghazra/github-readme-stats)
