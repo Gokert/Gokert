@@ -9,4 +9,5 @@ My name is Andrew. At the moment I am a student of Bauman Moscow State Technical
 [![Linkedin](https://img.shields.io/badge/-Linkedin-white?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/andrew-myshlyaev-53ba85286/)
 <img src="https://komarev.com/ghpvc/?username=Gokert&style=flat-square&color=blue" alt=""/>
 
-
+## My Stats :fire:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokert)](https://github.com/anuraghazra/github-readme-stats)
