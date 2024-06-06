@@ -13,3 +13,13 @@ My name is Andrew. At the moment I am a student of Bauman Moscow State Technical
 
 ## My Stats :fire:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokert)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="left">Languages and Tools 🛠️</h2>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="cplusplus" width="60" height="50"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="50"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="50"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="50"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="50"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="50"/> </a> 
+</p>
