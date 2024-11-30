@@ -21,7 +21,6 @@ My name is Andrew. At the moment I am a student of Bauman Moscow State Technical
 
 <h2 align="left">Languages and Tools 🛠️</h2>
 <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="git" width="70" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="cplusplus" width="60" height="50"/> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="50"/> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="50"/> </a>
